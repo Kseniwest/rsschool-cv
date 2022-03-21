@@ -5,7 +5,7 @@
 
 *********
 ## Contacts ##
-[E-mail](ksenipoliakova@gmail.com)
+**E-mail:** ksenipoliakova@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/kseniiapoliakova/)
 
