@@ -34,4 +34,11 @@ I have 4 years’ experience in IT as QA Engineer. I've graduated a pre-rsschool
 - https://rolling-scopes-school.github.io/kseniwest-JSFEPRESCHOOL/tic-tac-toe/
 
 
+*********
+## Education ##
+Master, Penza State Technological University
+
+
+
+
 
