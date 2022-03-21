@@ -5,11 +5,11 @@
 
 *********
 ## Contacts ##
-**E-mail:** ksenipoliakova@gmail.com
+[E-mail](ksenipoliakova@gmail.com)
 
-**LinkedIn:** https://www.linkedin.com/in/kseniiapoliakova/
+[LinkedIn](https://www.linkedin.com/in/kseniiapoliakova/)
 
-**GitHub:** https://github.com/Kseniwest
+[GitHub](https://github.com/Kseniwest)
 
 
 *********
@@ -28,10 +28,10 @@ I have 4 years’ experience in IT as QA Engineer. I've graduated a pre-rsschool
 
 *********
 ## Projects ##
-- https://Kseniwest.github.io/rsschool-cv-pre-school/
-- https://rolling-scopes-school.github.io/kseniwest-JSFEPRESCHOOL/portfolio/
-- https://rolling-scopes-school.github.io/kseniwest-JSFEPRESCHOOL/random-jokes/
-- https://rolling-scopes-school.github.io/kseniwest-JSFEPRESCHOOL/tic-tac-toe/
+- [CV](https://Kseniwest.github.io/rsschool-cv-pre-school/)
+- [Portfolio](https://rolling-scopes-school.github.io/kseniwest-JSFEPRESCHOOL/portfolio/)
+- [Random jokes](https://rolling-scopes-school.github.io/kseniwest-JSFEPRESCHOOL/random-jokes/)
+- [Tic tac toe](https://rolling-scopes-school.github.io/kseniwest-JSFEPRESCHOOL/tic-tac-toe/)
 
 
 *********
