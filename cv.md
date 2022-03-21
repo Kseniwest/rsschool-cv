@@ -39,6 +39,11 @@ I have 4 years’ experience in IT as QA Engineer. I've graduated a pre-rsschool
 Master, Penza State Technological University
 
 
+*********
+## Languages ##
+- Russian: *Native*
+- English: *Upper-intermediate*
+
 
 
 
