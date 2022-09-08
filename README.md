@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kseniwest.github.io/rsschool-cv/
